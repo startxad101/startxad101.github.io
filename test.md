@@ -1,1 +1,7 @@
----						layout: home						title: Custom						permalink: /test/					---											This is my test page.
+---
+						layout: home
+						title: Custom
+						permalink: /test/
+					---
+					
+						This is my updated test page.
