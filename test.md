@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Test
 permalink: /test/
 ---
