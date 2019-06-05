@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Custom
+title: Test
 permalink: /test/
 ---
 
-This is my updated test page.
+This is my updated test page!
